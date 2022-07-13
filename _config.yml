@@ -15,9 +15,9 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  about: https://jasonzeng.dev
   articles: /archives/
   projects: /projects/
+  about: https://jasonzeng.dev
 
 
 # Links to your social media accounts.
@@ -123,7 +123,7 @@ page_width: 48
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: atom.xml
+rss: 
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:
