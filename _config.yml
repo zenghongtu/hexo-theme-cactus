@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: https://github.com/zenghongtu
+projects_url: https://jasonzeng.dev/projects/
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -16,7 +16,7 @@ direction: ltr
 nav:
   home: /
   articles: /archives/
-  projects: /projects/
+  projects: https://jasonzeng.dev/projects/
   about: https://jasonzeng.dev
 
 
@@ -81,7 +81,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: https://avatars.githubusercontent.com/u/25629121?v=4
+  url: https://jasonzeng.dev/avatar.png
   gravatar: false
   grayout: false
 
@@ -96,13 +96,13 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: https://avatars.githubusercontent.com/u/25629121?s=64&v=4
+    url: https://jasonzeng.dev/avatar.png
     gravatar: false
   android:
-    url: https://avatars.githubusercontent.com/u/25629121?s=64&v=4
+    url: https://jasonzeng.dev/avatar.png
     gravatar: false
   apple:
-    url: https://avatars.githubusercontent.com/u/25629121?s=64&v=4
+    url: https://jasonzeng.dev/avatar.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
